@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "recipe page"
             }
+          },
+          {
+            "id": "05dfbf910d107e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git basics commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git basics commands"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipe page.md",
+                "file": "git basics commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for recipe page"
+              "title": "Backlinks for git basics commands"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recipe page.md",
+                "file": "git basics commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from recipe page"
+              "title": "Outgoing links from git basics commands"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recipe page.md",
+                "file": "git basics commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recipe page"
+              "title": "Outline of git basics commands"
             }
           }
         ]
@@ -168,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f04a16ace650474f",
+  "active": "05dfbf910d107e57",
   "lastOpenFiles": [
-    "recipe page.md"
+    "recipe page.md",
+    "git basics commands.md"
   ]
 }
