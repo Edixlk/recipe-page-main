@@ -1,0 +1,1 @@
+I have been back and fort with this project since i never had any knowledge with sematic html. I decided to take some time tonight to fix them and things went smoothly for once.
