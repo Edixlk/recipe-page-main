@@ -9,8 +9,6 @@
 }
 
 
-
-
 :root {
   --White: hsl(0, 0%, 100%);
   --Stone100: hsl(30, 54%, 90%);
@@ -79,11 +77,12 @@ p {
 
 
 .header h1 {
-  font-size: 2.5rem;
+  font-size: 2.5rem;  
   font-weight: 400;
   color: var(--Stone900);
   margin-top: 0.8em ;
   margin-bottom: 0;
+  
 }
 
 
@@ -139,6 +138,33 @@ li {
 }
 
 
+.nutrition-sect {
+  padding-bottom: 3em;
+}
+
+
+#nutri-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#nutri-tab th, td {
+   padding: 1em 0;
+}
+
+td {
+  text-align: left;
+}
+
+
+td, tr {
+  border-left: transparent;
+  border-right: transparent;
+  border-top: 1px solid var(--Stone900);
+  border-bottom: 1px solid var(--Stone900);
+  text-align: left;
+}
+
 
 
 /* mobile */
@@ -170,6 +196,11 @@ li {
 
   .header {
     padding: 0 0.5em;
+  }
+
+  .header h1 {
+    font-size: 1.9em;
+    line-height: 1em;
   }
 
  
